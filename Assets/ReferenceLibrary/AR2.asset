@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: AR2
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5066198873525781849
+  m_GuidHigh: 7301007350744157116
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5110790883639449751
+      m_GuidHigh: 16374628899062735291
+    m_SerializedTextureGuid:
+      m_GuidLow: 4513923587778497549
+      m_GuidHigh: 540961104064428201
+    m_Size: {x: 0.08, y: 0.07752969}
+    m_SpecifySize: 1
+    m_Name: s1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5718957631423413774
+      m_GuidHigh: 302436306450529466
+    m_SerializedTextureGuid:
+      m_GuidLow: 12269197931383632432
+      m_GuidHigh: 11064586120163724026
+    m_Size: {x: 0.08, y: 0.07769231}
+    m_SpecifySize: 1
+    m_Name: s2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5548246239907802173
+      m_GuidHigh: 13477569025442018225
+    m_SerializedTextureGuid:
+      m_GuidLow: 2586452080112775785
+      m_GuidHigh: 14844650571086112808
+    m_Size: {x: 0.08, y: 0.08399093}
+    m_SpecifySize: 1
+    m_Name: s3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5140800470753479430
+      m_GuidHigh: 5783073144298886538
+    m_SerializedTextureGuid:
+      m_GuidLow: 1604524929439252889
+      m_GuidHigh: 3949251822489519417
+    m_Size: {x: 0.08, y: 0.07811395}
+    m_SpecifySize: 1
+    m_Name: s4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5620701177437134223
+      m_GuidHigh: 4943520055101223597
+    m_SerializedTextureGuid:
+      m_GuidLow: 6355952202471253214
+      m_GuidHigh: 17791115297753160619
+    m_Size: {x: 0.08, y: 0.06836066}
+    m_SpecifySize: 1
+    m_Name: s5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4679215225882514200
+      m_GuidHigh: 1868992718875657628
+    m_SerializedTextureGuid:
+      m_GuidLow: 8404907495970004079
+      m_GuidHigh: 17680982124203591800
+    m_Size: {x: 0.08, y: 0.06973085}
+    m_SpecifySize: 1
+    m_Name: s6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4854301459740800383
+      m_GuidHigh: 4149202777364242823
+    m_SerializedTextureGuid:
+      m_GuidLow: 14651411809372044901
+      m_GuidHigh: 6619172406872322265
+    m_Size: {x: 0.08, y: 0.075856574}
+    m_SpecifySize: 1
+    m_Name: s7
+    m_Texture: {fileID: 0}

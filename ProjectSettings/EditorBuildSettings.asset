@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Girl_Character.unity
+    guid: 6de4345398f1c9548b2e0a5815bc2379
+  - enabled: 1
+    path: Assets/Scenes/TeacherLen.unity
+    guid: c2961934c0afac949bc269260e4ab31e
+  - enabled: 1
+    path: Assets/Scenes/ARscene2.unity
+    guid: 12a5080be7644df409822cd889dbce64
+  - enabled: 1
+    path: Assets/Activity/Scenes/Mode.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Tracing/Assets/Alphabet Board/Scenes/AlphabetMenu.unity
+    guid: 63f83a98411ff4c60853eb6e90ce9cb7
+  - enabled: 1
+    path: Assets/Tracing/Assets/Alphabet Board/Scenes/AlphabetWriting.unity
+    guid: eb37ecedd1e5f4acaa4364533b118a95
+  - enabled: 1
+    path: Assets/Activity/Scenes/SelectLevelEz.unity
+    guid: 9b0e57d0bdeeaf148bb87fea2be81a0f
+  - enabled: 1
+    path: Assets/Activity/Scenes/level1.unity
+    guid: 472cedfa6a14867418788bbefc7e0d67
+  - enabled: 1
+    path: Assets/Activity/Scenes/level2.unity
+    guid: e7d366873b65b9c4dbbe827e115efa42
+  - enabled: 1
+    path: Assets/Activity/Scenes/level3.unity
+    guid: 3253b18f59470594487d99f768f598fa
+  - enabled: 1
+    path: Assets/Activity/Scenes/level4.unity
+    guid: 8168d9078ff0f0d498112c6e9d5ee7c6
+  - enabled: 1
+    path: Assets/Activity/Scenes/level5.unity
+    guid: 65f21c6ac2b32944fa88917509f7332b
+  - enabled: 1
+    path: Assets/Activity/Scenes/Finish.unity
+    guid: d64f1c644659d1c478e203e5ff36d302
+  - enabled: 1
+    path: Assets/Activity/Scenes/SelectLevelMed.unity
+    guid: 26612352d2289274a8a7e2754949f6e0
+  - enabled: 1
+    path: Assets/Activity/Scenes/MedLevel1.unity
+    guid: 035a8adf90064a742bcb66766f584165
+  - enabled: 1
+    path: Assets/Activity/Scenes/MedLevel2.unity
+    guid: 527c1829af698374d81ce5ae0a045938
+  - enabled: 1
+    path: Assets/Activity/Scenes/MedLevel3.unity
+    guid: 845763c89f88b904395afcfd63aec21d
+  - enabled: 1
+    path: Assets/Activity/Scenes/MedLevel4.unity
+    guid: ae598a4f20899b642a8098d3bef12f37
+  - enabled: 1
+    path: Assets/Activity/Scenes/MedLevel5.unity
+    guid: a2b3a5d41233c0746adc0b4c567e1ecf
+  - enabled: 1
+    path: Assets/Activity/Scenes/FinishMed.unity
+    guid: fde5717fd42f75b48baff7ae22d5e107
+  - enabled: 1
+    path: Assets/Activity/Scenes/SelectLevelHard.unity
+    guid: 2427f0d7a945e224499b3a0cbb6d2bc4
+  - enabled: 1
+    path: Assets/Activity/Scenes/hard1.unity
+    guid: 4fe83b9beb27de94792083e4033f3705
+  - enabled: 1
+    path: Assets/Activity/Scenes/hard2.unity
+    guid: 591cce3cd5730cc4a9cdc8d6ce53a0bf
+  - enabled: 1
+    path: Assets/Activity/Scenes/hard3.unity
+    guid: 1ceb14852b6dfb147b6780d31b1d4bc2
+  - enabled: 1
+    path: Assets/Activity/Scenes/hard4.unity
+    guid: f092c966b746c8f44903ee0a81714f33
+  - enabled: 1
+    path: Assets/Activity/Scenes/hard5.unity
+    guid: 5d33b54f8c0962440b1f18c9aa9490a9
+  - enabled: 1
+    path: Assets/Activity/Scenes/FinishHard.unity
+    guid: d2ad31e4a5486084ca9b53ef8df36255
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: dca8be1da38353b4f93f4422eb91f11f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 296234d0b5cd43847a20d9bc6a24fc67, type: 2}
